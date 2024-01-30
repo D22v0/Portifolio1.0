@@ -1,0 +1,38 @@
+.banner{
+    width: 100%;
+}
+.container_banner{
+    width: 100%;
+    height: 700px;
+    margin-top: 50px;
+}
+.text{
+    width: 30%;
+    height: 50%;
+    position: relative;
+    top: 25%;
+    left: 14%;
+}
+.text h2,h3,h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text h4{ font-size: 30px;}
+.text h2{font-size: 80px;font-weight: bolder;}
+.text h3{font-size: 45px;font-weight: normal;}
+
+.text input{
+    font-size: 50px;
+    background-color: #357D5F;
+    color: white;
+    padding: 20px 100px;
+    margin: 0 10%;
+    text-align: center;
+    border-radius: 50px;
+    float: center;
+}
+.text input:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
